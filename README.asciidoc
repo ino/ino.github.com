@@ -1,0 +1,12 @@
+// /home/www/ino.github.com/README.asciidoc
+// vim: set filetype= ts=4:
+// -*- mode: ; -*-
+
+README
+======
+:Author:    clemens fischer
+:Date:      _date: 20100831-2010_
+
+== Summary
+
+Guess what, this is the source to my user page at github.com.
